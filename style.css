@@ -1,0 +1,124 @@
+
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    
+    font-family: arial,sans-serif;
+    padding-right: 15px;
+}
+
+#img{
+    position: relative;
+    top: 10px;
+    
+    width: 30px; 
+}
+
+#giriş{
+    border-radius: 50%;
+    background-color: #0097A7;
+    color: white;
+    width: 30px;
+   
+    margin: 15px;
+    
+}
+#giriş a{
+    color: white;
+    padding: auto;
+    
+}
+div{
+    display: inline-block;
+    padding: 7px;
+}
+#b{
+    float: right;
+   
+}
+div a{
+    text-decoration: none;
+}
+#section1{
+    
+    width: 290px;
+    
+    margin: auto;
+    margin-top: 150px;
+    
+
+}
+#c{
+    width: 272;
+    height: 92px;
+    margin-bottom: 48px;
+    
+
+}
+#section2{
+    
+   
+    margin: auto;
+    width: 579px;
+    height: 75px;
+}
+#d{
+    margin:auto;
+    
+}
+input{
+    width: 561px;
+    height: 44px;
+    box-shadow: 0 0 8px 2px #E2E2E2;
+    border: none;
+    border-radius: 30px;
+    padding-left: 55px;
+    font-size:1rem;
+   
+}
+
+#e{
+    width: 30px;
+    height:30px;
+    position: relative;
+    top: -35px;
+    left: 10px;
+}
+#f{
+    float: right;
+    width: 12px;
+    height:20px;
+    position: relative;
+    top: -35px;
+    right: 20px;
+}
+
+#s{
+    
+    width: 100%;
+    padding-left: 600px;
+    
+}
+.g{
+    color: black;
+}
+.h{
+   width: 139px;
+   margin: 0 15px;
+   color: rgb(250, 19, 19);
+    background-color: #EFEFEF;
+}
+.x{
+    padding: 15px;
+}
+div p{
+    margin: auto;
+    text-align: center;
+}
+#z{
+    width: 100%;
+    
+}
